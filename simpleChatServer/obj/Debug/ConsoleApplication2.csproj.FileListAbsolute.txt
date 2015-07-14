@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\simpleChatServer\bin\Debug\$safeprojectname$.exe.config
+C:\Users\user\Desktop\simpleChatServer\bin\Debug\$safeprojectname$.exe
+C:\Users\user\Desktop\simpleChatServer\bin\Debug\$safeprojectname$.pdb
+C:\Users\user\Desktop\simpleChatServer\obj\Debug\$safeprojectname$.exe
+C:\Users\user\Desktop\simpleChatServer\obj\Debug\$safeprojectname$.pdb
+C:\Users\user\Desktop\simpleChatServer\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache

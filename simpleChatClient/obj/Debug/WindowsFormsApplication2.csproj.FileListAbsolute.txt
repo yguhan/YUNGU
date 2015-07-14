@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\simpleChatClient\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\user\Desktop\simpleChatClient\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\simpleChatClient\obj\Debug\safeprojectname.Form1.resources
+C:\Users\user\Desktop\simpleChatClient\obj\Debug\$safeprojectname$.Properties.Resources.resources
+C:\Users\user\Desktop\simpleChatClient\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\simpleChatClient\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\simpleChatClient\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\simpleChatClient\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\simpleChatClient\obj\Debug\WindowsFormsApplication2.pdb
